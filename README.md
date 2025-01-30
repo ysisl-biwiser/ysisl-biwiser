@@ -10,8 +10,8 @@
 
 
 
-- 🌱 I’m currently working with  *Java* and pentaho, Node,  TypeScript, Docker,  Angular, GCP, Azure, and AWS*
-- 📺 I'm studying Java.
+- 🌱 I’m currently working with  *Java* , pentaho, Node,  TypeScript, Docker,  Angular, GCP, Azure, and linux*
+- 📺 I'm studying Docker.
 -  🔭I’m currently working on <a href="https://www.biwiser.com/" target="_blank">Biwiser</a>
 - 📫 How to reach me **ysisclongart@gmail.com**
 
