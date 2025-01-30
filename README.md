@@ -13,7 +13,7 @@
 - 🌱 I’m currently working with  *Java* , pentaho, Node,  TypeScript, Docker,  Angular, GCP, Azure, and linux*
 - 📺 I'm studying Docker.
 -  🔭I’m currently working on <a href="https://www.biwiser.com/" target="_blank">Biwiser</a>
-- 💬 Ask me about **Javascript, node.js, firebase, Angular, React, typescript, bootstrap, Tailwind, SAAS HTML, Test Unit, MongoDb, Docker**
+- 💬 Ask me about **Javascript, node.js, python, firebase, Angular, React, typescript, bootstrap, Tailwind, SAAS HTML, Test Unit, MongoDb, Docker**, Sqlserver.
 - 📫 How to reach me **ysisclongart@gmail.com**
 - ⚡ Fun fact **I think I am a cheff**
 
