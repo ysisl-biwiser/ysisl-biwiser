@@ -1,7 +1,7 @@
 
 # Hi there 👋, Ysis Longart here. 
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=250px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <h3 align="center">A Data Engineering from Chile</h3>
 
